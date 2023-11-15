@@ -60,6 +60,5 @@ public class ClienteController {
             return ResponseEntity.badRequest().body(MensajeDTO.builder().mensaje(e.getMessage()).build());
         }
     }
-
+  
 }
- 
