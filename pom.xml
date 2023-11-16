@@ -73,7 +73,7 @@
 				<artifactId>maven-jar-plugin</artifactId>
 				<version>2.3.1</version>
 				<configuration>
-					<outputDirectory>C:\Users\Andres\produccion</outputDirectory>
+					<outputDirectory>C:\Users\Andres\preproduccion</outputDirectory>
 				</configuration>
 			</plugin>
 
